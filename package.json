@@ -1,0 +1,1 @@
+{\n  "name": "vite-vue3-excel-generator",\n  "version": "1.0.0",\n  "scripts": {\n    "dev": "vite",\n    "build": "vite build",\n    "serve": "vite preview"\n  },\n  "dependencies": {\n    "vue": ">=3.0.0",\n    "xlsx": "^0.17.0"\n  },\n  "devDependencies": {\n    "typescript": "^4.0.0",\n    "vite": "^3.0.0",\n    "@vitejs/plugin-vue": "^2.0.0"\n  }\n}
